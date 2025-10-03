@@ -1,0 +1,1 @@
+{"name":"Local: interceptedInputs","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\interceptedInputs.cpp","tests":[{"id":1734601985642,"input":"1\n4\n1 1 1 2","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\interceptedInputs.cpp","group":"local","local":true}

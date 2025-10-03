@@ -1,0 +1,1 @@
+{"name":"Local: ATM_machine","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\ATM_machine.cpp","tests":[{"id":1735419447146,"input":"2\n5 10\n3 5 3 2 1\n4 6\n10 8 6 4","output":"11010\n0010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\ATM_machine.cpp","group":"local","local":true}

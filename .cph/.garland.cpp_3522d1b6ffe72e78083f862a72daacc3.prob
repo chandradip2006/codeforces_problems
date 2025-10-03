@@ -1,0 +1,1 @@
+{"name":"Local: garland","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\garland.cpp","tests":[{"id":1735057324442,"input":"3\n9546\n0000\n3313","output":"4\n-1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\garland.cpp","group":"local","local":true}

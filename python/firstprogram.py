@@ -1,0 +1,7 @@
+x = float(input("enter the number1:"))
+y = float(input("enter the number2:"))
+print("addition:", x + y)
+print("subtraction:", x - y)
+print("multiplication:", x * y)
+print("division:", x / y)
+print("exponential:", x ** y)

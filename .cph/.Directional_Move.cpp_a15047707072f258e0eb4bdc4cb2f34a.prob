@@ -1,0 +1,1 @@
+{"name":"Local: Directional_Move","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Directional_Move.cpp","tests":[{"id":1735683332277,"input":"3\n4\n1010\n5\n00000\n3\n111","output":"E\nS\nS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Directional_Move.cpp","group":"local","local":true}

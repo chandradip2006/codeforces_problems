@@ -1,0 +1,1 @@
+{"name":"Local: Twins","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Twins.cpp","tests":[{"id":1736018831483,"input":"2\n3 3","output":"2"},{"id":1736018844134,"input":"3\n2 1 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Twins.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Distance","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Distance.c","tests":[{"id":1736705082176,"input":"1\n1\n2\n2","output":"1.4142135623730951"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Distance.c","group":"local","local":true}

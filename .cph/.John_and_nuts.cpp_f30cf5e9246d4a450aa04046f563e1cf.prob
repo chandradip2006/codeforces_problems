@@ -1,0 +1,1 @@
+{"name":"Local: John_and_nuts","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\John_and_nuts.cpp","tests":[{"id":1735685442885,"input":"5 19\n9 1 2 3 4\n2\n2 4","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\John_and_nuts.cpp","group":"local","local":true}

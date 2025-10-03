@@ -1,0 +1,1 @@
+{"name":"Local: Box_is_Pull","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Box_is_Pull.cpp","tests":[{"id":1735561594945,"input":"2\n1 2 2 2\n1 1 2 2","output":"1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Box_is_Pull.cpp","group":"local","local":true}

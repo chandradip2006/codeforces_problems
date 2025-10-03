@@ -1,0 +1,1 @@
+{"name":"Local: minimize","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\minimize.cpp","tests":[{"id":1734552218276,"input":"3\n1 2\n3 10\n5 5","output":"1\n7\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\minimize.cpp","group":"local","local":true}

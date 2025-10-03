@@ -1,0 +1,1 @@
+{"name":"Local: treasure_chest","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\treasure_chest.cpp","tests":[{"id":1734784236909,"input":"3\n5 7 2\n10 5 0\n5 8 2","output":"7\n10\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\treasure_chest.cpp","group":"local","local":true}

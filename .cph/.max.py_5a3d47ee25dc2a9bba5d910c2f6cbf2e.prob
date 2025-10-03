@@ -1,0 +1,1 @@
+{"name":"Local: max","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\max.py","tests":[{"id":1749245996106,"input":"4\n-1\n-2\n1\n3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\max.py","group":"local","local":true}

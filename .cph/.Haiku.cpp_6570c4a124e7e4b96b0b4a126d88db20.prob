@@ -1,0 +1,1 @@
+{"name":"Local: Haiku","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Haiku.cpp","tests":[{"id":1735392174834,"input":"on  codeforces \nbeta round is running\n   a rustling of keys","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Haiku.cpp","group":"local","local":true}

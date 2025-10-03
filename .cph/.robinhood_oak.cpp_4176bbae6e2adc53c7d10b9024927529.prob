@@ -1,0 +1,1 @@
+{"name":"Local: robinhood_oak","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\robinhood_oak.cpp","tests":[{"id":1734553725764,"input":"5\n1 1\n2 1\n2 2\n3 2\n4 4","output":"NO\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\robinhood_oak.cpp","group":"local","local":true}

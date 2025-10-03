@@ -1,0 +1,1 @@
+{"name":"Local: new_Palindrome","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\new_Palindrome.cpp","tests":[{"id":1734796296294,"input":"3\ncodedoc\ngg\naabaa","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\new_Palindrome.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Clock_Seconds","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Clock_Seconds.c","tests":[{"id":1736705985040,"input":"6\n50\n34\nAM","output":"24634"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Clock_Seconds.c","group":"local","local":true}

@@ -1,0 +1,10 @@
+x = int(input("enter the number1:"))
+y = int(input("enter thr number2:"))
+
+print("sum:", x + y)
+print("difference:", x - y)
+print("product:", x * y)
+print("division:", x / y)
+print("floor division:", x // y)
+print("remainder:", x % y)
+print("exponentiation:", x ** y)

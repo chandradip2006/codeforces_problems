@@ -1,0 +1,1 @@
+{"name":"Local: Only_Pluses","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Only_Pluses.cpp","tests":[{"id":1739946651120,"input":"2\n2 3 4\n10 1 10","output":"100\n600"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Only_Pluses.cpp","group":"local","local":true}

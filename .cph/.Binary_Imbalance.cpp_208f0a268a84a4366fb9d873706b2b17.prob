@@ -1,0 +1,1 @@
+{"name":"Local: Binary_Imbalance","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Binary_Imbalance.cpp","tests":[{"id":1738938288363,"input":"3\n2\n00\n2\n11\n2\n10","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Binary_Imbalance.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ultimate_square","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\ultimate_square.cpp","tests":[{"id":1735212749900,"input":"3\n2\n5\n197654321","output":"1\n3\n98827161"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\ultimate_square.cpp","group":"local","local":true}

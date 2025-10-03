@@ -1,0 +1,1 @@
+{"name":"Local: Small_GCD","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Small_GCD.cpp","tests":[{"id":1737219703368,"input":"2\n5\n2 3 6 12 17\n8\n6 12 8 10 15 12 18 16","output":"24\n203"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Small_GCD.cpp","group":"local","local":true}

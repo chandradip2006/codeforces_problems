@@ -1,0 +1,1 @@
+{"name":"Local: Draw_a_Square","url":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Draw_a_Square.cpp","tests":[{"id":1741731074951,"input":"2\n2 2 2 2\n1 2 3 4","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\coding\\CP in c++\\Draw_a_Square.cpp","group":"local","local":true}
